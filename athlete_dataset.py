@@ -271,7 +271,7 @@ class HomePage(tk.Frame):
         home_page_info = "This application utilises a public domain dataset '120 Years of\nOlympics History: Athletes and Results' provided by Kaggle,\na data science competition platform with access to open datasets.\n\nBy using the following 'Filter', 'Table' and 'Graph' tabs you can\nfilter the data by five categories and display that data in a table."
         
         #canvas = tk.Canvas(master = self, width = 700, height = 255, highlightthickness = 0)
-        #bg = tk.PhotoImage(file = "animal.gif")
+        #bg = tk.PhotoImage(file = "olympic_logo_reduced.png")
         #canvas.create_image(0, 0, image = bg)
         #canvas.grid(row = 1, column = 0)
 
